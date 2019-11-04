@@ -1,0 +1,10 @@
+git init = créer depot
+git commit -m = creer une maj sur le depot avec texte
+git commit = ouvre console pour texte de commit
+git config --global user.name = changer nom utilisateur
+git config --global user.mail = changer mail utilisateur
+git status = voir les fichiers modifiés et nouveaux fichiers et les maj de fichiers
+git add FICHIER = ajoute le fichier dans git
+git log = voir les commit precedents
+git log --oneline = afficher les log resumes en une ligne
+git mv fichier fichier2 = renomme fichier en fichier2
